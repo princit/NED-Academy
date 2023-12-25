@@ -35,6 +35,12 @@
 ![image](https://github.com/princit/NED-Academy/assets/29123911/23efc1b3-788f-40cf-9732-6900e09ad95f)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/5f90de38-4de9-492a-a08d-af956da735c7)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/5b3fde30-aa5e-4f4b-b554-f2becfcbf096)
+![image](https://github.com/princit/NED-Academy/assets/29123911/b44fe09b-c2c5-4fac-a2d1-6e5d04c3512f)
+M-languae is different from DAX the scriptting language
+VBA is subset of visual basic that are not availble to microsoft
+You can analyse data with the help of ms excel in python
+Excel containing interface for python
+![image](https://github.com/princit/NED-Academy/assets/29123911/31c6f3f9-43b3-41ae-a056-1af91b7c9e62)
 
 
 
