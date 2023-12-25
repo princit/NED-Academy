@@ -41,6 +41,17 @@ VBA is subset of visual basic that are not availble to microsoft
 You can analyse data with the help of ms excel in python
 Excel containing interface for python
 ![image](https://github.com/princit/NED-Academy/assets/29123911/31c6f3f9-43b3-41ae-a056-1af91b7c9e62)
+![image](https://github.com/princit/NED-Academy/assets/29123911/0e9a44d7-0339-4a6c-8a3d-940bc7e20ab0)
+![image](https://github.com/princit/NED-Academy/assets/29123911/7774c326-1247-4a23-b7e3-86c3306eafb7)
+![image](https://github.com/princit/NED-Academy/assets/29123911/a4200d91-5e72-4659-955a-d3b998c1bc33)
+![image](https://github.com/princit/NED-Academy/assets/29123911/42df94e2-ed28-4ef8-aabc-fb8545561209)
+![image](https://github.com/princit/NED-Academy/assets/29123911/6b7ab119-094c-451c-a569-3366a3037ed6)
+![image](https://github.com/princit/NED-Academy/assets/29123911/846abd08-c0d1-48d4-a749-8cc2e02920c9)
+![image](https://github.com/princit/NED-Academy/assets/29123911/ae474951-f85a-4116-9872-5b0d9b08b921)
+![image](https://github.com/princit/NED-Academy/assets/29123911/cb8e67f6-e05c-4613-9da0-591aa28ba7ec)
+![image](https://github.com/princit/NED-Academy/assets/29123911/486b85ed-f70b-44f0-91d3-fa9d91d05c8e)
+![image](https://github.com/princit/NED-Academy/assets/29123911/f2d19c3a-4475-4558-9f2b-b3b9677439d2)
+![image](https://github.com/princit/NED-Academy/assets/29123911/18affb49-4b35-4a68-a108-b4b8bca3272b)
 
 
 
