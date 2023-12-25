@@ -68,6 +68,11 @@ Data presentation --> BI is best
 
 Data scraping --> excel has no option
 
+Utility stores
+
+-Smart trally
+
+-Amazone go
 
 
 
