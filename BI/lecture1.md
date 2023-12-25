@@ -37,9 +37,13 @@
 ![image](https://github.com/princit/NED-Academy/assets/29123911/5b3fde30-aa5e-4f4b-b554-f2becfcbf096)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/b44fe09b-c2c5-4fac-a2d1-6e5d04c3512f)
 M-languae is different from DAX the scriptting language
+
 VBA is subset of visual basic that are not availble to microsoft
+
 You can analyse data with the help of ms excel in python
+
 Excel containing interface for python
+
 ![image](https://github.com/princit/NED-Academy/assets/29123911/31c6f3f9-43b3-41ae-a056-1af91b7c9e62)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/0e9a44d7-0339-4a6c-8a3d-940bc7e20ab0)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/7774c326-1247-4a23-b7e3-86c3306eafb7)
@@ -53,7 +57,16 @@ Excel containing interface for python
 ![image](https://github.com/princit/NED-Academy/assets/29123911/f2d19c3a-4475-4558-9f2b-b3b9677439d2)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/18affb49-4b35-4a68-a108-b4b8bca3272b)
 
+Data analysis -ms excel
 
+Data Presentation -excel is not best
+
+Data cleaning -Power Query is best 
+
+Data presentation --> BI is best
+
+
+Data scraping --> excel has no option
 
 
 
