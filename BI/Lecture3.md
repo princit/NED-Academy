@@ -12,6 +12,12 @@ not fill from left o right .
 ![image](https://github.com/princit/NED-Academy/assets/29123911/1692eaa4-a461-469a-bc56-afb81a05f923)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/94a6d867-f7a2-4591-99dd-38262d28f9cf)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/ade2f9e1-5eab-4479-9898-972377c7f842)
+![image](https://github.com/princit/NED-Academy/assets/29123911/e58a24e5-c8f5-453c-8c48-ca26aacfe0b4)
+![image](https://github.com/princit/NED-Academy/assets/29123911/88dd8433-0355-4c5c-95d3-d2808422c021)
+![image](https://github.com/princit/NED-Academy/assets/29123911/1b38aa0e-2c98-4ef8-af13-6cc925faf907)
+![image](https://github.com/princit/NED-Academy/assets/29123911/1231eabe-9843-4b89-8dfb-98384a236205)
+![image](https://github.com/princit/NED-Academy/assets/29123911/72c7c713-f3cf-4ce8-9015-2f898a251267)
+![image](https://github.com/princit/NED-Academy/assets/29123911/9d6b9f00-b038-4509-80a8-37601b12561b)
 
 
 
