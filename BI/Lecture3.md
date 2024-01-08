@@ -9,6 +9,9 @@ fill >up down
 
 not fill from left o right .
 
+![image](https://github.com/princit/NED-Academy/assets/29123911/1692eaa4-a461-469a-bc56-afb81a05f923)
+![image](https://github.com/princit/NED-Academy/assets/29123911/94a6d867-f7a2-4591-99dd-38262d28f9cf)
+![image](https://github.com/princit/NED-Academy/assets/29123911/ade2f9e1-5eab-4479-9898-972377c7f842)
 
 
 
