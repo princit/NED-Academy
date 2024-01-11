@@ -1,3 +1,5 @@
+**Lecture 1**
+
 ![image](https://github.com/princit/NED-Academy/assets/29123911/f6b9379b-4024-4851-b999-fc491f94fd63)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/a54930a9-b6aa-4bda-b8de-066bf4497f48)
 Such node become active whoes features are leanred 
@@ -20,6 +22,33 @@ LLM -->large language model Tools are -->
           1-Lang chain (Language chain)
           
           2-Lmma Index
+
+Image generation Frame Work -->
+
+            Midjourney
+
+            DALL-E 3
+![image](https://github.com/princit/NED-Academy/assets/29123911/5ee17c6f-02bd-41fd-84fd-3773773a62e6)
+![image](https://github.com/princit/NED-Academy/assets/29123911/455f294f-c7fb-4e34-8584-99f3fcf45d71)
+![image](https://github.com/princit/NED-Academy/assets/29123911/36bb621c-3ea0-4856-abe8-0e31020070b0)
+![image](https://github.com/princit/NED-Academy/assets/29123911/6c2ff2bf-2e9f-4961-8569-14baf05168f8)
+![image](https://github.com/princit/NED-Academy/assets/29123911/46ff1181-c182-4490-9055-7720c8890be0)
+![image](https://github.com/princit/NED-Academy/assets/29123911/6b38d9ec-46a9-4ae2-a8fa-cc7af90fa8c3)
+![image](https://github.com/princit/NED-Academy/assets/29123911/3e584d8f-353d-420d-bca1-2c5da55dc0c5)
+
+**Lecture 2**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
