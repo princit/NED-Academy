@@ -8,6 +8,13 @@
 ![image](https://github.com/princit/NED-Academy/assets/29123911/7967a6ac-0925-4be1-bde8-8c00ae746eea)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/f6ed6b96-1e19-44f8-aa86-969f0da1028d)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/ee051e31-e70a-4c11-a0e2-6328c55ad61f)
+![image](https://github.com/princit/NED-Academy/assets/29123911/d3c6113f-9eee-4f3d-aa81-45c5300648b5)
+![image](https://github.com/princit/NED-Academy/assets/29123911/0d9a53d8-c6f3-4a7e-92d2-5ce3d5ef404d)
+![image](https://github.com/princit/NED-Academy/assets/29123911/e199c7da-ffb9-4295-8ae9-325d3ff7e62e)
+1900 -till now -->number of day 
+
+
+
 
 
 
