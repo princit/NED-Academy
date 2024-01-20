@@ -37,6 +37,22 @@ every six rows new record start
 ![image](https://github.com/princit/NED-Academy/assets/29123911/292cceeb-b749-4ace-bc96-eedb80abc029)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/f5c5f494-9aa5-4845-bed9-08a090708f8f)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/8149b4fc-ef03-4e73-b040-b846aecd8198)
+![image](https://github.com/princit/NED-Academy/assets/29123911/3a1e493e-c2f6-4e10-85aa-a6a2a904e5b3)
+![image](https://github.com/princit/NED-Academy/assets/29123911/d0161d64-0fa4-452b-ae13-6d0c502b4c7c)
+![image](https://github.com/princit/NED-Academy/assets/29123911/0f3ec007-dc86-41c3-9226-57f75200c980)
+![image](https://github.com/princit/NED-Academy/assets/29123911/9f198dfb-f424-406e-93dc-6575699a55b7)
+![image](https://github.com/princit/NED-Academy/assets/29123911/d5d24819-525f-49c2-8750-18581aeb0de8)
+![image](https://github.com/princit/NED-Academy/assets/29123911/c39c3833-a34f-45da-8818-4de3757c50c9)
+![image](https://github.com/princit/NED-Academy/assets/29123911/c0c22935-6cd1-4b42-a7ce-65d40c051509)
+![image](https://github.com/princit/NED-Academy/assets/29123911/4c7d8fc5-eea2-4385-b560-0540a44ba802)
+![image](https://github.com/princit/NED-Academy/assets/29123911/42d3d9a2-a0da-4128-8596-05949873a5fa)
+![image](https://github.com/princit/NED-Academy/assets/29123911/66b64ce9-41bf-47ed-b2c6-9a0ea35b1da6)
+
+
+
+
+
+
 
 
 
