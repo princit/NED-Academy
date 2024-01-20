@@ -40,7 +40,8 @@ Image generation Frame Work -->
 
 **Lecture 3**
 ![image](https://github.com/princit/NED-Academy/assets/29123911/51c4e5f5-043c-472a-83a7-6e602e5a45d5)
-
+![image](https://github.com/princit/NED-Academy/assets/29123911/72ed6e5e-ef9e-40d3-8cea-a2f98fd71b5a)
+between function argument -->shift tab
 
 
 
