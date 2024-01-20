@@ -54,8 +54,9 @@ a
 ![image](https://github.com/princit/NED-Academy/assets/29123911/2f054dba-c0c1-4049-8075-c4394c06d1b9)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/94bb4cd9-40cc-4a84-be33-cfced35e8a56)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/0eb364a7-9fb6-40f0-80af-8e8a973051d4)
+![image](https://github.com/princit/NED-Academy/assets/29123911/4a62c3e6-baa6-4df3-b5c6-d4d8354b6673)
 
-
+**LECTURE 4** 
 
 
 
