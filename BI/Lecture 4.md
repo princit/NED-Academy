@@ -14,6 +14,9 @@
 1900 -till now -->number of day 
 
 Asign index number to each every piece of inofrmtion 
+![image](https://github.com/princit/NED-Academy/assets/29123911/9daf9f76-2142-4256-91fc-3186a7768cba)
+
+every six rows new record start
 
 
 
