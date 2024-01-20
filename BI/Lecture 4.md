@@ -47,6 +47,10 @@ every six rows new record start
 ![image](https://github.com/princit/NED-Academy/assets/29123911/4c7d8fc5-eea2-4385-b560-0540a44ba802)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/42d3d9a2-a0da-4128-8596-05949873a5fa)
 ![image](https://github.com/princit/NED-Academy/assets/29123911/66b64ce9-41bf-47ed-b2c6-9a0ea35b1da6)
+![image](https://github.com/princit/NED-Academy/assets/29123911/0635e244-f9a3-4423-90df-a5c52cbbfc9e)
+![image](https://github.com/princit/NED-Academy/assets/29123911/7a754ae7-c552-4620-8375-e2ca04374d4f)
+
+
 
 
 
