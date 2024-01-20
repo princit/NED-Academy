@@ -17,6 +17,17 @@ Asign index number to each every piece of inofrmtion
 ![image](https://github.com/princit/NED-Academy/assets/29123911/9daf9f76-2142-4256-91fc-3186a7768cba)
 
 every six rows new record start
+![image](https://github.com/princit/NED-Academy/assets/29123911/b5804c1b-0b41-4bc7-8c2d-ff1b030c8b32)
+![image](https://github.com/princit/NED-Academy/assets/29123911/e08ff9a2-5a1a-4251-9f2f-3426277aba75)
+![image](https://github.com/princit/NED-Academy/assets/29123911/8ad485a7-3e80-4839-9071-ce4f8bfc1015)
+![image](https://github.com/princit/NED-Academy/assets/29123911/72165200-bcf3-4689-b2c1-ba481cf7f111)
+![image](https://github.com/princit/NED-Academy/assets/29123911/114ebd8d-bfc2-4b63-91d2-60a59186ec47)
+
+
+
+
+
+
 
 
 
