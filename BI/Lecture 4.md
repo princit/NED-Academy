@@ -13,6 +13,7 @@
 ![image](https://github.com/princit/NED-Academy/assets/29123911/e199c7da-ffb9-4295-8ae9-325d3ff7e62e)
 1900 -till now -->number of day 
 
+Asign index number to each every piece of inofrmtion 
 
 
 
