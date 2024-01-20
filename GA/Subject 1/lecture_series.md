@@ -47,8 +47,10 @@ id() -->return the address
 ord(A)  -65
 ord(a)  -97
 
-
-
+chr(65)
+A
+chr(97)
+a
 
 
 
