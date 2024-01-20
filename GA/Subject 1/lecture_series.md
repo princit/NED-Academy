@@ -44,8 +44,8 @@ Image generation Frame Work -->
 between function argument -->shift tab
 ![image](https://github.com/princit/NED-Academy/assets/29123911/5fba728a-784f-4475-8276-0203c5a74f32)
 id() -->return the address 
-
-
+ord(A)  -65
+ord(a)  -97
 
 
 
