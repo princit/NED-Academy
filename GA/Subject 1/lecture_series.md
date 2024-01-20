@@ -38,6 +38,8 @@ Image generation Frame Work -->
 
 **Lecture 2**
 
+**Lecture 3**
+![image](https://github.com/princit/NED-Academy/assets/29123911/51c4e5f5-043c-472a-83a7-6e602e5a45d5)
 
 
 
