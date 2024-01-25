@@ -59,6 +59,26 @@ a
 **LECTURE 4** 
 
 **LECTURE 5** 
+![image](https://github.com/princit/NED-Academy/assets/29123911/c1015549-7d3d-47fd-b671-c5d5f21fe8d1)
+![image](https://github.com/princit/NED-Academy/assets/29123911/05c9aea7-b64d-48dc-b223-217bfb5d1fb8)
+![image](https://github.com/princit/NED-Academy/assets/29123911/24f5c55e-1365-4328-b59d-8fc0770eb52a)
+![image](https://github.com/princit/NED-Academy/assets/29123911/347ab940-d2e4-4167-aed7-19d9f8fdab8e)
+
+**LECTURE 6** 
+![image](https://github.com/princit/NED-Academy/assets/29123911/43cd76d6-1fdf-49a1-8869-c007f47ad717)
+![image](https://github.com/princit/NED-Academy/assets/29123911/87ff15a6-41be-4cb3-94ad-1c7055dadca4)
+![image](https://github.com/princit/NED-Academy/assets/29123911/0bf2fe7c-de8c-42e9-bfa9-d1914e99d905)
+![image](https://github.com/princit/NED-Academy/assets/29123911/0b4aa6b4-70ed-4ba0-a8a5-0f068823304c)
+![image](https://github.com/princit/NED-Academy/assets/29123911/7bb02ee7-3956-4f8b-8789-2e1b61f28c7c)
+![image](https://github.com/princit/NED-Academy/assets/29123911/bdbafb68-c11a-48de-a2be-fcfb5b8814f0)
+![image](https://github.com/princit/NED-Academy/assets/29123911/41708491-4dc4-4615-9d3b-2fecdd7345ec)
+![image](https://github.com/princit/NED-Academy/assets/29123911/abc4a104-d078-40dc-9e02-7796719e5340)
+![image](https://github.com/princit/NED-Academy/assets/29123911/c192eec2-c5f7-4106-a7c6-60af1a0ca154)
+![image](https://github.com/princit/NED-Academy/assets/29123911/178d3687-b24c-4037-910f-0561eeceec2c)
+![image](https://github.com/princit/NED-Academy/assets/29123911/9d6fa9a6-9e49-4d55-9383-eeca61a49b4a)
+![image](https://github.com/princit/NED-Academy/assets/29123911/6ccbef4f-1172-44d3-9195-85274a788057)
+![image](https://github.com/princit/NED-Academy/assets/29123911/3748ed1a-50b3-4787-8203-81b4ee44985f)
+
 
 
 
